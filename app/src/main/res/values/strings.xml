@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Shiny Teeth</string>
+    <string name="intro_text"> Shiny Teeth Dental Center local in Can Tho city with 2000 years experiences, believe in providing high quality dental care to all of our patients.</string>
+    <string name="intro_dental_review_text">We bring to our customer the most modern dental clinic equipment is being trusted and invested by many experts</string>
+    <string name="intro_doctor_review_text">Shiny Teeth is also proud to be the convergence of a team of professors, doctors, and qualified doctors.</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="register_image">Register Image</string>
+    <string name="image_logo">Image logo</string>
+    <string name="contact_thanks">Thanks for contact with us we will respond you as soon as possible.</string>
+
+
+    <string name="facebook_app_id">365034262220155</string>
+    <string name="fb_login_protocol_scheme">fb365034262220155</string>
+    <string name="facebook_client_token">365034262220155</string>
+    <string name="feedback_thanks">Thanks for feedback with us we will respond you as soon as possible.</string>
+
+
+</resources>
